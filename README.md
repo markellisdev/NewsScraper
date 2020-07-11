@@ -5,6 +5,8 @@ and scrape each site listed in the file.
 
 For more info read comments in `NewsScraper.py`.
 
+This is my own version, forked from [NewsScraper](https://github.com/holwech/NewsScraper) and adapted to my own desires.
+
 ## Libraries
 This script uses the following libraries:
 
