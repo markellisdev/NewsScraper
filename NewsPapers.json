@@ -1,22 +1,4 @@
 {
-	"cnn": {
-		"link": "http://edition.cnn.com/"
-	},
-	"bbc": {
-		"rss": "http://feeds.bbci.co.uk/news/rss.xml",
-		"link": "http://www.bbc.com/"
-	},
-	"theguardian": {
-		"rss": "https://www.theguardian.com/uk/rss",
-		"link": "https://www.theguardian.com/international"
-	},
-  "infowars": {
-    "link": "https://www.infowars.com/"
-  },
-  "washingtonpost": {
-    "rss": "http://feeds.washingtonpost.com/rss/world",
-    "link": "https://www.washingtonpost.com/"
-  },
   "marketwatch": {
     "rss": "http://feeds.marketwatch.com/marketwatch/topstories/",
     "link": "https://www.marketwatch.com/investing?mod=breadcrumb"
